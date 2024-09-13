@@ -11,18 +11,52 @@ redirect_from:
   body {
     background-color: #E0F7FA; 
   }
+  .container {
+    display: flex;
+    gap: 20px; /* Space between boxes */
+  }
+  .box {
+    border: 2px solid #000000;
+    padding: 15px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    background-color: #F0FBFD;
+  }
+  .box2 {
+    background-color: #E0F7FA; /* Change background color as needed */
+    flex: 1; /* Ensures the box takes up remaining space */
+  }
+  .heading {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .school-list {
+    color: #008000; /* Green color for schools */
+    font-weight: bold;
+  }
 </style>
 
-<div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 40px;">
-I am a Ph.D. student of Computer Science at Washington State University. My main research areas are Machine Learning and Artificial Intelligence. I am advised by Prof Jana Doppa.
-</div>
+<div class="container">
+  <div class="box">
+    I am a Ph.D. student of Computer Science at Washington State University. My main research areas are Machine Learning and Artificial Intelligence. I am advised by Prof Jana Doppa.
+  </div>
 
+  <div class="box box2">
+    <div class="heading">Education</div>
+    <div class="school-list">
+      <div>Washington State University</div>
+      <div>Another School</div>
+      <div>Yet Another School</div>
+    </div>
+  </div>
+</div>
 
 A data-driven personal website
 ======
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 40px;">
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 </div>
+
 
 <div style="border: 2px solid ; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 40px;">
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).

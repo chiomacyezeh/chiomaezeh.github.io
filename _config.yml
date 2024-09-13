@@ -24,14 +24,10 @@ author:
   avatar           : "ugwu.jpg"
   name             : "Chibuike E. Ugwu"
   pronouns         : # example: "she/her"  
-  #bio              : "Ph.D. Student @ Washington State University"
-  #bio              : "Ph.D. Student at Washington State University (https://wsu.edu)"
-
   bio              : "Ph.D. Student at <a href='https://wsu.edu' target='_blank'>Washington State University</a>"
-
   location         : "Pullman, WA, USA"
-  employer         : "Washington State University"
-  uri              : "https://wsu.edu/"
+  employer         : #"Washington State University"
+  uri              : #"https://wsu.edu/"
   email            : "chibuike.ugwu@wsu.edu" 
 
   # Academic websites
