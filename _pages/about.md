@@ -18,7 +18,7 @@ I am a Ph.D. student of Computer Science at Washington State University. My main
 </div>
 
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 40px; font-family: Arial, sans-serif; color: #333333;">
-  <p style="font-weight: bold; color: #000000;">I am a Ph.D. student of Computer Science at <a href='https://wsu.edu' target='_blank' style="color: #0077CC; text-decoration: none;">Washington State University</a>. My main research areas are <span style="font-weight: bold; color: #006400;">Machine Learning</span> and <span style="font-weight: bold; color: #006400;">Artificial Intelligence</span>. I am advised by Prof Jana Doppa.</p>
+  <p style="font-weight: color: #000000;">I am a Ph.D. student of Computer Science at <a href='https://wsu.edu' target='_blank' style="color: #0077CC; text-decoration: none;">Washington State University</a>. My main research areas are <span style="font-weight: color:;">Machine Learning and Artificial Intelligence</span>. I am advised by Prof Jana Doppa.</p>
 </div>
 
 
