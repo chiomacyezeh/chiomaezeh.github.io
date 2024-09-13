@@ -14,10 +14,7 @@ redirect_from:
 </style>
 
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 40px; font-family: Arial, sans-serif; color: #333333;">
-<p style="font-weight: color: #000000;">I am a Ph.D. student in Computer Science at <a href='https://wsu.edu' target='_blank' style="color: #0077CC; text-decoration: none;">Washington State University</a>, where I am fortunate to be advised by <a href='https://eecs.wsu.edu/~jana/' target='_blank' style="color: #0077CC; text-decoration: none;">Prof. Jana Doppa</a>. My general research interests are in Artificial Intelligence (AI) and Machine Learning (ML), with a main focus on developing robust, safe, and trustworthy Machine Learning algorithms for addressing critical real-world challenges within safety-sensitive domains. My current work focuses on developing efficient algorithms and theoretical frameworks to enhance the reliability and safety of deep learning algorithms. My research is specifically concentrated on:
-
-- Adapting Uncertainty Quantification methods, like Conformal Prediction, to facilitate effective and secure human-ML collaboration within healthcare applications.
-- Trustworthy Out-of-Distribution (OOD) Detection for ensuring the reliability of ML models when applied to real-world tasks beyond their original training scope.
+  <p style="font-weight: color: #000000;">I am a Ph.D. student of Computer Science at <a href='https://wsu.edu' target='_blank' style="color: #0077CC; text-decoration: none;">Washington State University</a>, where I am . My main research areas are <span style="font-weight: color:;">Machine Learning and Artificial Intelligence</span>. I am advised by Prof Jana Doppa.</p>
 </div>
 
 
