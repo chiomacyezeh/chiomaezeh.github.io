@@ -35,26 +35,26 @@ redirect_from:
 Education
 ======
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px;">
-  <ul>
-    <li><span style="font-weight: bold; color: #008000;">Ph.D., Computer Science</span>   <br>
-      <a href='https://wsu.edu' target='_blank' style="color: #000000 ; text-decoration: none; font-weight: bold;">   Washington State University</a> (2022 - present)
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>
+      <span style="font-weight: bold; color: #008000;">Ph.D., Computer Science</span><br>
+      <a href='https://wsu.edu' target='_blank' style="color: #000000; text-decoration: none; font-weight: bold; padding-left: 20px; display: inline-block;">Washington State University</a> (2022 - present)
     </li>
-    <li><span style="font-weight: bold; color: #008000;">MS., Computer Science</span> <i class="fas fa-graduation-cap"></i> <br>
-      <a href='https://wsu.edu' target='_blank' style="color: #000000 ; text-decoration: none; font-weight: bold;">   Washington State University</a> (2022 - 2024)
+    <li>
+      <span style="font-weight: bold; color: #008000;">MS., Computer Science</span> <i class="fas fa-graduation-cap"></i><br>
+      <a href='https://wsu.edu' target='_blank' style="color: #000000; text-decoration: none; font-weight: bold; padding-left: 20px; display: inline-block;">Washington State University</a> (2022 - 2024)
     </li>
-    <li><span style="font-weight: bold; color: #008000;">BS. Statistics</span> <i class="fas fa-graduation-cap"></i>  <br>
-      <a href='https://www.unn.edu.ng/' target='_blank' style="color: #000000 ; text-decoration: none; font-weight: bold;">   University of Nigeria</a> (2014 - 2018)
+    <li>
+      <span style="font-weight: bold; color: #008000;">BS., Statistics</span> <i class="fas fa-graduation-cap"></i><br>
+      <a href='https://www.unn.edu.ng/' target='_blank' style="color: #000000; text-decoration: none; font-weight: bold; padding-left: 20px; display: inline-block;">University of Nigeria</a> (2014 - 2018)
     </li>
   </ul>
 </div>
 
 
-<div style="border: 2px solid ; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 40px;">
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-</div>
 
 
-Getting started
+News
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
