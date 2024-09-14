@@ -37,13 +37,13 @@ Education
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px;">
   <ul>
     <li><span style="font-weight: bold; color: #008000;">Ph.D., Computer Science</span>   <br>
-      <a href='https://wsu.edu' target='_blank' style=" text-decoration: none; font-weight: bold;">Washington State University</a> (2022 - present)
+      <a href='https://wsu.edu' target='_blank' style="color: #000000 ; text-decoration: none; font-weight: bold;">   Washington State University</a> (2022 - present)
     </li>
     <li><i class="fas fa-graduation-cap"></i> <span style="font-weight: bold; color: #008000;">MS., Computer Science</span><br>
-      <a href='https://wsu.edu' target='_blank' style="color: ; text-decoration: none; font-weight: bold;">Washington State University</a> (2022 - 2024)
+      <a href='https://wsu.edu' target='_blank' style="color: #000000 ; text-decoration: none; font-weight: bold;">   Washington State University</a> (2022 - 2024)
     </li>
     <li><i class="fas fa-graduation-cap"></i> <span style="font-weight: bold; color: #008000;">BS. Statistics</span> <br>
-      <a href='https://www.unn.edu.ng/' target='_blank' style="color: ; text-decoration: none; font-weight: bold;">University of Nigeria</a> (2014 - 2018)
+      <a href='https://www.unn.edu.ng/' target='_blank' style="color: #000000 ; text-decoration: none; font-weight: bold;">   University of Nigeria</a> (2014 - 2018)
     </li>
   </ul>
 </div>
