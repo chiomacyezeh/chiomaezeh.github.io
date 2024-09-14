@@ -39,10 +39,10 @@ Education
     <li><span style="font-weight: bold; color: #008000;">Ph.D., Computer Science</span>   <br>
       <a href='https://wsu.edu' target='_blank' style="color: #000000 ; text-decoration: none; font-weight: bold;">   Washington State University</a> (2022 - present)
     </li>
-    <li><i class="fas fa-graduation-cap"></i> <span style="font-weight: bold; color: #008000;">MS., Computer Science</span><br>
+    <i class="fas fa-graduation-cap"></i> <span style="font-weight: bold; color: #008000;">MS., Computer Science</span><br>
       <a href='https://wsu.edu' target='_blank' style="color: #000000 ; text-decoration: none; font-weight: bold;">   Washington State University</a> (2022 - 2024)
     </li>
-    <li><i class="fas fa-graduation-cap"></i> <span style="font-weight: bold; color: #008000;">BS. Statistics</span> <br>
+    <i class="fas fa-graduation-cap"></i> <span style="font-weight: bold; color: #008000;">BS. Statistics</span> <br>
       <a href='https://www.unn.edu.ng/' target='_blank' style="color: #000000 ; text-decoration: none; font-weight: bold;">   University of Nigeria</a> (2014 - 2018)
     </li>
   </ul>
