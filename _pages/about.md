@@ -35,27 +35,15 @@ redirect_from:
 Education
 ======
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px;">
-  <p style="font-weight: color: #000000;">
-    I am a Ph.D. student in Computer Science at 
-    <a href='https://wsu.edu' target='_blank' style="color: #0077CC; text-decoration: none;">Washington State University</a>, 
-    where I am fortunate to be advised by 
-    <a href='https://eecs.wsu.edu/~jana/' target='_blank' style="color: #0077CC; text-decoration: none;">Prof Jana Doppa</a>. 
-    My general research interests are in <span style="font-weight: bold;">Machine Learning (ML)</span> and 
-    <span style="font-weight: bold;">Artificial Intelligence (AI)</span>, 
-    with a main focus on developing robust, safe, and trustworthy machine learning algorithms for addressing critical real-world challenges within safety-sensitive domains. 
-    <br>
-    My current work focuses on developing efficient algorithms and theoretical frameworks to enhance the reliability and 
-    <span style="font-weight: bold;">safety of deep learning algorithms</span>. 
-    My research is specifically concentrated on:</p>
   <ul>
-    <li><i class="fas fa-graduation-cap"></i> Ph.D., Computer Science <br>
-      <a href='https://wsu.edu' target='_blank' style="color: #008000; text-decoration: none; font-weight: bold;">Washington State University</a> (2022 - present)
+    <li><span style="font-weight: bold; color: #008000;">Ph.D., Computer Science</span>   <br>
+      <a href='https://wsu.edu' target='_blank' style=" text-decoration: none; font-weight: bold;">Washington State University</a> (2022 - present)
     </li>
-    <li><i class="fas fa-graduation-cap"></i> MS., Computer Science <br>
-      <a href='https://wsu.edu' target='_blank' style="color: #008000; text-decoration: none; font-weight: bold;">Washington State University</a> (2022 - 2024)
+    <li><i class="fas fa-graduation-cap"></i> <span style="font-weight: bold; color: #008000;">MS., Computer Science</span><br>
+      <a href='https://wsu.edu' target='_blank' style="color: ; text-decoration: none; font-weight: bold;">Washington State University</a> (2022 - 2024)
     </li>
-    <li><i class="fas fa-graduation-cap"></i> BS., Statistics <br>
-      <a href='https://www.unn.edu.ng/' target='_blank' style="color: #008000; text-decoration: none; font-weight: bold;">University of Nigeria</a> (2014 - 2018)
+    <li><i class="fas fa-graduation-cap"></i> <span style="font-weight: bold; color: #008000;">BS. Statistics</span> <br>
+      <a href='https://www.unn.edu.ng/' target='_blank' style="color: ; text-decoration: none; font-weight: bold;">University of Nigeria</a> (2014 - 2018)
     </li>
   </ul>
 </div>
