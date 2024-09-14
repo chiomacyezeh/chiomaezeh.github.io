@@ -21,11 +21,10 @@ redirect_from:
     <a href='https://eecs.wsu.edu/~jana/' target='_blank' style="color: #0077CC; text-decoration: none;">Prof Jana Doppa</a>. 
     My general research interests are in <span style="font-weight: bold;">Machine Learning (ML)</span> and 
     <span style="font-weight: bold;">Artificial Intelligence (AI)</span>, 
-    with a main focus on developing robust, safe, and trustworthy Machine Learning algorithms for addressing critical real-world challenges within safety-sensitive domains. 
-    <br><br>
-    My current work focuses on developing efficient algorithms and theoretical frameworks to enhance the reliability and safety of deep learning algorithms. 
-    My research is specifically concentrated on:
-  </p>
+    with a main focus on developing robust, safe, and trustworthy machine learning algorithms for addressing critical real-world challenges within safety-sensitive domains. 
+    <br>
+    My current work focuses on developing efficient algorithms and theoretical frameworks to enhance the reliability and <span style="font-weight: bold;">safety of deep learning algorithms</span>. 
+    My research is specifically concentrated on:</p>
   <ul>
     <li>Adapting Uncertainty Quantification methods, like Conformal Prediction, to facilitate effective and secure human-ML collaboration within healthcare applications.</li>
     <li>Trustworthy Out-of-Distribution (OOD) Detection for ensuring the reliability of ML models when applied to real-world tasks beyond their original training scope.</li>
@@ -33,13 +32,34 @@ redirect_from:
 </div>
 
 
-
-
-A data-driven personal website
+Education
 ======
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px;">
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+  <p style="font-weight: color: #000000;">
+    I am a Ph.D. student in Computer Science at 
+    <a href='https://wsu.edu' target='_blank' style="color: #0077CC; text-decoration: none;">Washington State University</a>, 
+    where I am fortunate to be advised by 
+    <a href='https://eecs.wsu.edu/~jana/' target='_blank' style="color: #0077CC; text-decoration: none;">Prof Jana Doppa</a>. 
+    My general research interests are in <span style="font-weight: bold;">Machine Learning (ML)</span> and 
+    <span style="font-weight: bold;">Artificial Intelligence (AI)</span>, 
+    with a main focus on developing robust, safe, and trustworthy machine learning algorithms for addressing critical real-world challenges within safety-sensitive domains. 
+    <br>
+    My current work focuses on developing efficient algorithms and theoretical frameworks to enhance the reliability and 
+    <span style="font-weight: bold;">safety of deep learning algorithms</span>. 
+    My research is specifically concentrated on:</p>
+  <ul>
+    <li><i class="fas fa-graduation-cap"></i> Ph.D., Computer Science <br>
+      <a href='https://wsu.edu' target='_blank' style="color: #008000; text-decoration: none; font-weight: bold;">Washington State University</a> (2022 - present)
+    </li>
+    <li><i class="fas fa-graduation-cap"></i> MS., Computer Science <br>
+      <a href='https://wsu.edu' target='_blank' style="color: #008000; text-decoration: none; font-weight: bold;">Washington State University</a> (2022 - 2024)
+    </li>
+    <li><i class="fas fa-graduation-cap"></i> BS., Statistics <br>
+      <a href='https://www.unn.edu.ng/' target='_blank' style="color: #008000; text-decoration: none; font-weight: bold;">University of Nigeria</a> (2014 - 2018)
+    </li>
+  </ul>
 </div>
+
 
 <div style="border: 2px solid ; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 40px;">
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
