@@ -26,7 +26,7 @@ redirect_from:
     My current work focuses on developing efficient algorithms and theoretical frameworks to enhance the reliability and <span style="font-weight: bold;">safety of deep learning algorithms</span>. 
     My research is specifically concentrated on:</p>
   <ul>
-    <li>Adapting Uncertainty Quantification methods, like Conformal Prediction, to facilitate effective and secure human-ML collaboration within healthcare applications.</li>
+    <li>Adapting Uncertainty Quantification methods, like Conformal Prediction (CP), to facilitate effective and secure human-ML collaboration within healthcare applications.</li>
     <li>Trustworthy Out-of-Distribution (OOD) Detection for ensuring the reliability of ML models when applied to real-world tasks beyond their original training scope.</li>
   </ul>
 </div>
