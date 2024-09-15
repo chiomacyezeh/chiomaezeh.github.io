@@ -21,7 +21,7 @@ redirect_from:
     </li>
 
     <li><span style="font-weight: bold;">2022 - </span> 
-    EducationUSA Opportunity Fund Program Scholar <span style="font-weight: bold;">(Abuja, Nigeria)</span>..
+    EducationUSA Opportunity Fund Program Scholar <span style="font-weight: bold;">(Abuja, Nigeria)</span>.
     </li>
 
     <li><span style="font-weight: bold;">2018 - </span>  
