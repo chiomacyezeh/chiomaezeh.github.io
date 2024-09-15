@@ -29,11 +29,11 @@ redirect_from:
     </li>
 
     <li><span style="font-weight: bold;">2018 - </span> 
-        <a href='https://www.vanguardngr.com/2018/05/unn-wins-nmc-nsa-competition-for-universities/' target='_blank' style="color: #0077CC; text-decoration: none;">Best in Nigerian Statistical Association competition for undergraduates</a> <span style="font-weight: bold;">(Representative of the University of Nigeria)</span>.
+        <a href='https://www.vanguardngr.com/2018/05/unn-wins-nmc-nsa-competition-for-universities/' target='_blank' style="color: #0077CC; text-decoration: none;">Best in Nigerian Statistical Association competition for undergraduates</a> [Representative of the University of Nigeria] <span style="font-weight: bold;">(Abuja, Nigeria)</span>.
     </li>
 
     <li><span style="font-weight: bold;">2018 - </span> 
-        <a href='https://www.vanguardngr.com/2018/05/unn-wins-nmc-nsa-competition-for-universities/' target='_blank' style="color: #0077CC; text-decoration: none;">Gold medalist in Nigerian Statistical Association competition</a> <span style="font-weight: bold;">(Representative of the University of Nigeria)</span>.
+        <a href='https://www.vanguardngr.com/2018/05/unn-wins-nmc-nsa-competition-for-universities/' target='_blank' style="color: #0077CC; text-decoration: none;">Gold medalist in Nigerian Statistical Association competition</a> [Representative of the University of Nigeria] <span style="font-weight: bold;">(Abuja, Nigeria)</span>.
     </li>
 
     
