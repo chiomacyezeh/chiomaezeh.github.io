@@ -10,13 +10,13 @@ main:
     url: /files/Resume_Chibuike_Ugwu.pdf #/files/cv.pdf
 
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
 
   - title: "Publications"
     url: /publications/
 
   - title: "Awards"
-    url: /Awards/
+    url: /awards/
 
   #- title: "Talks"
   #  url: /talks/    
