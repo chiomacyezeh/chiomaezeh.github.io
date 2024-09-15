@@ -9,14 +9,14 @@ main:
     #url: /cv/
     url: /files/Resume_Chibuike_Ugwu.pdf #/files/cv.pdf
 
+  - title: "Awards"
+    url: /awards/
+
   - title: "Projects"
     url: /projects/
 
   - title: "Publications"
     url: /publications/
-
-  - title: "Awards"
-    url: /awards/
 
   #- title: "Talks"
   #  url: /talks/    
