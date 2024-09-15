@@ -6,7 +6,8 @@
 
 main:
   - title: "CV"
-    url: /files/Resume_Chibuike_Ugwu.pdf/ #/files/cv.pdf/
+    #url: /cv/
+    url: /files/Resume_Chibuike_Ugwu.pdf #/files/cv.pdf
 
   - title: "Projects"
     url: /Projects/
