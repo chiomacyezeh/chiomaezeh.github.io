@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Assistant, Washington State University"
 permalink: /teachings/
 author_profile: true
 redirect_from:
@@ -14,8 +14,6 @@ redirect_from:
   }
 </style>
 
-
-Teaching Assistant, Washington State University
 ===
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
   <ul>
