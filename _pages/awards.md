@@ -25,7 +25,7 @@ redirect_from:
     </li>
 
     <li><span style="font-weight: bold;">2018 - </span>  
-    Best Graduating Student -- Statistics Department, <span style="font-weight: bold;">(University of Nigeria)</span>.
+    Best Graduating Student -- Statistics Department <span style="font-weight: bold;">(University of Nigeria)</span>.
     </li>
 
     <li><span style="font-weight: bold;">2018 - </span> 
