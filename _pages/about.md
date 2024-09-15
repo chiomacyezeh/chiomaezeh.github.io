@@ -59,8 +59,8 @@ Latest Updates
     <li><span style="font-weight: bold;">April, 2024 - </span> 
         <a href='https://vcea.wsu.edu/' target='_blank' style="color: #0077CC; text-decoration: none;">VCEA</a> Outstanding EECS Graduate Teaching Assistant Award.
     </li>
-    
-    <li>
+
+    <li> 
     </li>
   </ul>
 </div>
