@@ -10,8 +10,6 @@ redirect_from:
 
 <style>
   body {
-    height: 100%;
-    margin: 0;
     background-color: #E0F7FA;
   }
 </style>
