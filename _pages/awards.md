@@ -16,8 +16,7 @@ redirect_from:
 
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
   <ul>
-    <li><span style="font-weight: bold;">2024 - </span> 
-        &#x1F3C5; <a href='https://eecs.wsu.edu/' target='_blank' style="color: #0077CC; text-decoration: none;">EECS</a> Outstanding Graduate Student Teaching Assistant Award <span style="font-style: italic;">(Washington State University)</span>.
+    <li> &#x1F3C5; <a href='https://eecs.wsu.edu/' target='_blank' style="color: #0077CC; text-decoration: none;">EECS</a> Outstanding Graduate Student Teaching Assistant Award <span style="font-weight: bold;">(Washington State University) - 2024 </span>.
     </li>
 
     <li><span style="font-weight: bold;">2022 - </span> 
