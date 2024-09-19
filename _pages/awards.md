@@ -20,9 +20,10 @@ redirect_from:
         <a href='https://eecs.wsu.edu/' target='_blank' style="color: #0077CC; text-decoration: none;">EECS</a> Outstanding Graduate Student Teaching Assistant Award <span style="font-style: italic;">(Washington State University)</span>.
     </li>
 
-  <li><span style="font-weight: bold;">2022 - </span> 
-      EducationUSA Opportunity Fund Program Scholar <span style="font-style: italic;">(Abuja, Nigeria)</span>.
-  </li>
+    <li><span style="font-weight: bold;">2022 - </span> 
+        EducationUSA Opportunity Fund Program Scholar <span style="font-style: italic;">&#x1F3C5; (Abuja, Nigeria)</span>.
+    </li>
+
 
 
     <li><span style="font-weight: bold;">2018 - </span>  
