@@ -21,19 +21,19 @@ redirect_from:
     </li>
 
     <li><span style="font-weight: bold;">2022 - </span> 
-    EducationUSA Opportunity Fund Program Scholar <span style="font-weight: bold;">(Abuja, Nigeria)</span>.
+    EducationUSA Opportunity Fund Program Scholar <span style="font-weight: ;">(Abuja, Nigeria)</span>.
     </li>
 
     <li><span style="font-weight: bold;">2018 - </span>  
-    <span style="font-weight: bold;">Best Graduating Student</span> -- Statistics Department <span style="font-weight: bold;">(University of Nigeria)</span>.
+    <span style="font-weight: bold;">Best Graduating Student</span> -- Statistics Department <span style="font-weight: ;">(University of Nigeria)</span>.
     </li>
 
     <li><span style="font-weight: bold;">2018 - </span> 
-        <a href='https://www.vanguardngr.com/2018/05/unn-wins-nmc-nsa-competition-for-universities/' target='_blank' style="color: #0077CC; text-decoration: none;">Best in Nigerian Statistical Association competition for undergraduates</a> [Representative of the University of Nigeria] <span style="font-weight: bold;">(Abuja, Nigeria)</span>.
+        <a href='https://www.vanguardngr.com/2018/05/unn-wins-nmc-nsa-competition-for-universities/' target='_blank' style="color: #0077CC; text-decoration: none;">Best in Nigerian Statistical Association competition for undergraduates</a> [Representative of the University of Nigeria] <span style="font-weight: ;">(Abuja, Nigeria)</span>.
     </li>
 
     <li><span style="font-weight: bold;">2018 - </span> 
-        <a href='https://www.vanguardngr.com/2018/05/unn-wins-nmc-nsa-competition-for-universities/' target='_blank' style="color: #0077CC; text-decoration: none;">Gold medalist in Nigerian Statistical Association competition</a> [Representative of the University of Nigeria] <span style="font-weight: bold;">(Abuja, Nigeria)</span>.
+        <a href='https://www.vanguardngr.com/2018/05/unn-wins-nmc-nsa-competition-for-universities/' target='_blank' style="color: #0077CC; text-decoration: none;">Gold medalist in Nigerian Statistical Association competition</a> [Representative of the University of Nigeria] <span style="font-weight: ;">(Abuja, Nigeria)</span>.
     </li>
 
     
