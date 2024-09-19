@@ -29,7 +29,7 @@ redirect_from:
   </div>
   
   <div style="margin-bottom: 10px;">
-    &#x1F3C5; <a href='https://www.vanguardngr.com/2018/05/unn-wins-nmc-nsa-competition-for-universities/' target='_blank' style="color: #0077CC; text-decoration: none;">Best in Nigerian Statistical Association competition for undergraduates</a> [Representative of the University of Nigeria] <span style="font-style: italic;">&nbsp;&nbsp;(Abuja, Nigeria) - 2018</span>.
+    &#x1F3C5; <a href='https://www.vanguardngr.com/2018/05/unn-wins-nmc-nsa-competition-for-universities/' target='_blank' style="color: #0077CC; text-decoration: none;">Best in Nigerian Statistical Association competition for undergraduates</a> [Representative of the University of Nigeria] <span style="font-style: italic;"> (Abuja, Nigeria) - 2018</span>.
   </div>
   
   <div style="margin-bottom: 10px;">
