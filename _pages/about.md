@@ -59,7 +59,7 @@ Latest Updates
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
   <ul>
     <li><span style="font-weight: bold;">April, 2024 - </span> 
-        &#x1F3C5; Outstanding Graduate Teaching Assistant in <a href='https://eecs.wsu.edu/' target='_blank' style="color: #0077CC; text-decoration: none;">EECS</a> Award, <a href='https://vcea.wsu.edu/' target='_blank' style="color: #0077CC; text-decoration: none;">VCAE</a>.
+        &#x1F3C5; Outstanding Graduate Teaching Assistant in <a href='https://eecs.wsu.edu/' target='_blank' style="color: #0077CC; text-decoration: none;">EECS</a> Award, <a href='https://vcea.wsu.edu/' target='_blank' style="color: #0077CC; text-decoration: none;">VCEA</a>.
     </li>
 
     <li> 

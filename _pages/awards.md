@@ -17,7 +17,7 @@ redirect_from:
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
   
   <div style="margin-bottom: 15px;">
-    &#x1F3C5; Outstanding Graduate Teaching Assistant in <a href='https://eecs.wsu.edu/' target='_blank' style="color: #0077CC; text-decoration: none;">EECS</a> Award, <a href='https://vcea.wsu.edu/' target='_blank' style="color: #0077CC; text-decoration: none;">VCAE</a> <span style="font-style: italic;">(Washington State University) - 2024</span>.
+    &#x1F3C5; Outstanding Graduate Teaching Assistant in <a href='https://eecs.wsu.edu/' target='_blank' style="color: #0077CC; text-decoration: none;">EECS</a> Award, <a href='https://vcea.wsu.edu/' target='_blank' style="color: #0077CC; text-decoration: none;">VCEA</a> <span style="font-style: italic;">(Washington State University) - 2024</span>.
   </div>
   
   <div style="margin-bottom: 15px;">
