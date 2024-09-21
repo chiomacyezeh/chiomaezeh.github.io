@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /my_publications/
 author_profile: true
 redirect_from:
@@ -14,14 +14,12 @@ redirect_from:
   }
 </style>
 
-
-Papers Under Review and Preprints
-=====
-
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+Papers Under Review and Preprints
+=====
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
   <ol>
     <li><span style="font-weight: bold;">[AAAI'25] Chibuike E. Ugwu </span> 
@@ -41,7 +39,7 @@ Papers Under Review and Preprints
 
 
 Journal Papers
-======
+===
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
   <ol>
     <li>Oladugba, A. V.,<span style="font-weight: bold;"> Chibuike E. Ugwu </span>, and Onwuamaeze, U. C. (2023). Sensitivity and robustness of randomization test and F‐test in some experimental designs.<span style="font-style: italic;">Quality and Reliability Engineering International, 39(7), 2967-2974.
