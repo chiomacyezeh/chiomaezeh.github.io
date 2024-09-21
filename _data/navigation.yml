@@ -16,11 +16,11 @@ main:
   - title: "Teaching"
     url: /teachings/  
 
-  - title: "Projects"
-    url: /projects/
+  #- title: "Projects"
+  #  url: /projects/
 
   - title: "Publications"
-    url: /publications/
+    url: /my_publications/
 
   #- title: "Talks"
   #  url: /talks/    
