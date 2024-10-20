@@ -7,7 +7,7 @@
 main:
   - title: "CV"
     #url: /cv/
-    url: /files/Resume_Chibuike_Ugwu.pdf #/files/cv.pdf
+    url: /files/Resume_Chibuike.pdf #/files/cv.pdf
 
   - title: "Awards"
     url: /awards/
