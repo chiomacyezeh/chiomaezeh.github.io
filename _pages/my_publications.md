@@ -18,7 +18,7 @@ redirect_from:
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %} -->
 
-Papers Under Review and Preprints
+<!-- Papers Under Review and Preprints
 =====
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
   <ol>
@@ -35,7 +35,7 @@ Papers Under Review and Preprints
     </li>
     
   </ol>
-</div>
+</div>-->
 
 
 Journal Papers
