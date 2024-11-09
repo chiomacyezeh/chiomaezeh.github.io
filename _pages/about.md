@@ -58,7 +58,7 @@ Latest Updates
 ======
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
   <ul>
-    <li><span style="font-weight: bold;">November, 2024 - </span> 
+    <li><span style="font-weight: bold;">Nov., 2024 - </span> 
         Passed my Ph.D. Qualifying Examination!
     </li>
     
