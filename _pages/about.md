@@ -16,21 +16,21 @@ redirect_from:
 </style>
 
 <div style="border: 2px solid #000000; padding: 15px; background-color: #F0FBFD; border-radius: 15px; margin-bottom: 20px; font-family: Arial, sans-serif; color: #333333;">
-  <p style="font-weight: color: #000000;">
+  <p style="color: #000000;">
     I am a Ph.D. student in Computer Science at 
     <a href='https://wsu.edu' target='_blank' style="color: #0077CC; text-decoration: none;">Washington State University</a>, 
     where I am fortunate to be advised by 
-    <a href='https://eecs.wsu.edu/~jana/' target='_blank' style="color: #0077CC; text-decoration: none;">Prof Jana Doppa</a>. 
+    <a href='https://eecs.wsu.edu/~jana/' target='_blank' style="color: #0077CC; text-decoration: none;">Prof. Jana Doppa</a>. 
     My general research interests are in <span style="font-weight: bold;">Machine Learning (ML)</span> and 
     <span style="font-weight: bold;">Artificial Intelligence (AI)</span>, 
-    with a main focus on developing robust, safe, and trustworthy <span style="font-weight: bold;">deep learning algorithms</span> and theoretical frameworks for addressing critical real-world challenges within safety-sensitive domains. My current work focuses on
-    <br>
-    </p>
+    with a main focus on developing robust, safe, and trustworthy <span style="font-weight: bold;">deep learning algorithms</span> and theoretical frameworks for addressing critical real-world challenges within safety-sensitive domains. My current work focuses on:
+  </p>
   <ul>
     <li>Adapting calibration-based uncertainty quantification methods, like Conformal Prediction, to facilitate effective and secure human-ML collaboration.</li>
-    <li>Trustworthy Out-of-Distribution (OOD) Detection for ensuring the reliability of ML models deployed in real world applications.</li>
+    <li>Developing Trustworthy Out-of-Distribution (OOD) Detection methods to ensure the reliability of ML models deployed in real-world applications.</li>
   </ul>
 </div>
+
 
 
 Education
