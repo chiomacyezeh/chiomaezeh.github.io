@@ -28,7 +28,7 @@ redirect_from:
 
   <ul>
     <li>Adapting calibration-based uncertainty quantification methods, like Conformal Prediction, to facilitate effective and secure human-ML collaboration.</li>
-    <li>Trustworthy Out-of-Distribution (OOD) Detection for ensuring the reliability of ML models.</li>
+    <li>Trustworthy Out-of-Distribution (OOD) Detection for ensuring the reliability of ML models deployed in real world applications.</li>
   </ul>
 </div>
 
