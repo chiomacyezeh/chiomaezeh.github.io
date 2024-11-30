@@ -24,7 +24,9 @@ redirect_from:
     My general research interests are in <span style="font-weight: bold;">Machine Learning (ML)</span> and 
     <span style="font-weight: bold;">Artificial Intelligence (AI)</span>, 
     with a main focus on developing robust, safe, and trustworthy <span style="font-weight: bold;">deep learning algorithms</span> and theoretical frameworks for addressing critical real-world challenges within safety-sensitive domains. My current work focuses on
-
+    <br>
+    My current work focuses on developing efficient algorithms and theoretical frameworks to enhance the reliability and <span style="font-weight: bold;">safety of deep learning algorithms</span>. 
+    My research is specifically concentrated on:</p>
   <ul>
     <li>Adapting calibration-based uncertainty quantification methods, like Conformal Prediction, to facilitate effective and secure human-ML collaboration.</li>
     <li>Trustworthy Out-of-Distribution (OOD) Detection for ensuring the reliability of ML models.</li>
