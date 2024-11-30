@@ -23,13 +23,11 @@ redirect_from:
     <a href='https://eecs.wsu.edu/~jana/' target='_blank' style="color: #0077CC; text-decoration: none;">Prof Jana Doppa</a>. 
     My general research interests are in <span style="font-weight: bold;">Machine Learning (ML)</span> and 
     <span style="font-weight: bold;">Artificial Intelligence (AI)</span>, 
-    with a main focus on developing robust, safe, and trustworthy machine learning algorithms for addressing critical real-world challenges within safety-sensitive domains. 
-    <br>
-    My current work focuses on developing efficient algorithms and theoretical frameworks to enhance the reliability and <span style="font-weight: bold;">safety of deep learning algorithms</span>. 
-    My research is specifically concentrated on:</p>
+    with a main focus on developing robust, safe, and trustworthy <span style="font-weight: bold;">deep learning algorithms</span> and theoretical frameworks for addressing critical real-world challenges within safety-sensitive domains. My current work focuses on
+
   <ul>
-    <li>Adapting Uncertainty Quantification methods, like Conformal Prediction (CP), to facilitate effective and secure human-ML collaboration within healthcare applications.</li>
-    <li>Trustworthy Out-of-Distribution (OOD) Detection for ensuring the reliability of ML models when applied to real-world tasks beyond their original training scope.</li>
+    <li>Adapting calibration-based uncertainty quantification methods, like Conformal Prediction, to facilitate effective and secure human-ML collaboration.</li>
+    <li>Trustworthy Out-of-Distribution (OOD) Detection for ensuring the reliability of ML models.</li>
   </ul>
 </div>
 
