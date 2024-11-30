@@ -25,7 +25,7 @@ redirect_from:
     <span style="font-weight: bold;">Artificial Intelligence (AI)</span>, 
     with a main focus on developing robust, safe, and trustworthy <span style="font-weight: bold;">deep learning algorithms</span> and theoretical frameworks for addressing critical real-world challenges within safety-sensitive domains. My current work focuses on
     <br>
-
+    </p>
   <ul>
     <li>Adapting calibration-based uncertainty quantification methods, like Conformal Prediction, to facilitate effective and secure human-ML collaboration.</li>
     <li>Trustworthy Out-of-Distribution (OOD) Detection for ensuring the reliability of ML models deployed in real world applications.</li>
